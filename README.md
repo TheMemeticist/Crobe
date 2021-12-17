@@ -1,6 +1,6 @@
 # Crobe: Micro Climate Droid
 
-![CrobeLogo](https://raw.githubusercontent.com/TheMemeticist/Crobe/4a2cc394feb09300aa22b7412a4cdbe2383f8a24/CrobeLogo.svg)
+![CrobeLogo](CrobeLogo.svg)
 
 [Evidence suggests](https://www.tandfonline.com/doi/full/10.1080/02786826.2020.1829536) that respiratory aerosols may play a role in the spread of microbes.
 
