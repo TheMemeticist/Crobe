@@ -1,4 +1,4 @@
-# Crobe: Microbe Climate Droid
+# Crobe: Micro Climate Droid
 
 ![CrobeLogo](https://raw.githubusercontent.com/TheMemeticist/Crobe/4a2cc394feb09300aa22b7412a4cdbe2383f8a24/CrobeLogo.svg)
 
